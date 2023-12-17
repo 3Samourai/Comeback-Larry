@@ -1,13 +1,15 @@
-# Come Back Larry Firefox Extension
+# Comeback Larry Firefox Extension
 ## Description
 
-Come Back Larry is a Firefox browser add-on designed to bring back the beloved Twitter bird as the favicon and icon on Twitter's website. If you've been missing the iconic Twitter bird, this add-on is perfect for you!
+Comeback Larry is a Firefox browser add-on designed to bring back the beloved Twitter bird as the favicon and icon on Twitter's website. If you've been missing the iconic Twitter bird, this add-on is perfect for you!
 Features
 
     Replaces the default Twitter/X favicon and icon with the classic Twitter bird.
     Nostalgic design for those who miss the iconic Twitter bird.
 
 ## Installation
+### Download on Store
+[Firefox](https://addons.mozilla.org/en-US/firefox/addon/come-back-larry/)
 ### Manual Installation
 
 If you prefer to manually install the extension, follow these steps:
@@ -39,6 +41,6 @@ If you prefer to manually install the extension, follow these steps:
 
 ## Note
 
-Come Back Larry is an unofficial add-on and is not affiliated with or endorsed by Twitter Inc. Twitter, Tweet, Retweet, and the Twitter Bird logo are trademarks of Twitter Inc. or its affiliates.
+Comeback Larry is an unofficial add-on and is not affiliated with or endorsed by Twitter Inc. Twitter, Tweet, Retweet, and the Twitter Bird logo are trademarks of Twitter Inc. or its affiliates.
 
 If you encounter any issues or have suggestions, feel free to report them on the GitHub repository.
